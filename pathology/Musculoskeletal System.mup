@@ -1,5 +1,148 @@
 {
   "title": "Musculoskeletal System",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Skeletal System",
+      "id": 3,
+      "ideas": {
+        "2": {
+          "title": "Tumor-like lesions",
+          "id": 6
+        },
+        "3": {
+          "title": "Infections",
+          "id": 27
+        },
+        "2.5": {
+          "title": "Tumors",
+          "id": 5,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Primary",
+              "id": 7,
+              "ideas": {
+                "2": {
+                  "title": "Non-osseous",
+                  "id": 10,
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "Indigenous to the bone"
+                    },
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  },
+                  "ideas": {}
+                },
+                "12": {
+                  "title": "Osseous",
+                  "id": 9,
+                  "ideas": {
+                    "1": {
+                      "title": "Bone forming (osteogenic, osteoblastic)",
+                      "id": 11,
+                      "ideas": {
+                        "12": {
+                          "title": "Benign",
+                          "id": 17,
+                          "ideas": {
+                            "1": {
+                              "title": "Osteoma",
+                              "id": 19
+                            },
+                            "2": {
+                              "title": "Osteoid osteoma",
+                              "id": 20,
+                              "ideas": {
+                                "1": {
+                                  "title": "<1 cm, painful, in cortex of long bone, with reactive bone formation",
+                                  "id": 31,
+                                  "ideas": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "title": "Giant osteoid osteoma Osteoblastoma",
+                              "id": 21,
+                              "attr": {
+                                "style": {
+                                  "background": "#E0E0E0"
+                                }
+                              },
+                              "ideas": {
+                                "1": {
+                                  "title": ">1 cm, painless, in medulla of vertebra, ribs, ilium, long bones",
+                                  "id": 34
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "22": {
+                          "title": "Malignant",
+                          "id": 18,
+                          "ideas": {
+                            "1": {
+                              "title": "Osteosarcoma",
+                              "id": 22
+                            },
+                            "2": {
+                              "title": "Parosteal osteosarcoma",
+                              "id": 23
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Cartilage forming",
+                      "id": 12
+                    },
+                    "4": {
+                      "title": "Unknown",
+                      "id": 15
+                    },
+                    "5": {
+                      "title": "Notochordal",
+                      "id": 16
+                    },
+                    "0.5": {
+                      "title": "Hematopoietic",
+                      "id": 14
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Metastatic",
+              "id": 8
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Muscles",
+      "id": 25
+    },
+    "-1": {
+      "title": "Joints",
+      "id": 24
+    }
+  },
+  "links": []
 }
